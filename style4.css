@@ -8,6 +8,12 @@ html{
     font-family:consolas;
 }
 
+body{
+    display: block;
+    margin: 8px;
+    font-family:consolas;
+}
+
 div.contenedor{
     width: 1660px;
     height: 1330px;

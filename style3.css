@@ -7,6 +7,12 @@ html{
     height: 100%; 
 }
 
+body{
+    display: block;
+    margin: 8px;
+    font-family:consolas;
+}
+
 div.contenedor{
     width: 1660px;
     height: 1330px;
@@ -22,7 +28,7 @@ div.encabezado{
 }
 
 div.titulo{
-    width: 120px;
+    width: 160px;
     height: 60px;
     margin-right: 0px;
 }
