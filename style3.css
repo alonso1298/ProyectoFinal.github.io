@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+}
+
+.degradado{
+    background: -webkit-linear-gradient(180deg, #32D7D0, #F6E3DC);
+    height: 100%; 
+}
+
+div.contenedor{
+    width: 1660px;
+    height: 1330px;
+    margin: auto;
+}
+
+div.encabezado{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between
+}
+
+div.titulo{
+    width: 120px;
+    height: 60px;
+    margin-right: 0px;
+}
+
+div.inicio{
+    width: 320px;
+    height: 60px;
+    text-align: right;
+    margin-right: 30px;
+}
+
+h1{
+    font-size: 33px;
+    font-style:consolas;
+    color: black;
+}
+
+div.tamañoletra{
+    font-size: 2em;
+}
+
+div.letranegra{
+    color: black;
+    font-family:consolas;
+}
